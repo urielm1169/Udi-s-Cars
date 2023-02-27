@@ -1,0 +1,18 @@
+body{
+    background-color: burlywood;
+    
+}
+h1{
+    border: 3px solid black;
+    border-radius: 15px;
+}
+h2{
+    border: 3px solid black;
+    border-radius: -15px;\
+
+}
+
+p{
+    border: 3px solid blue;
+    border-radius: 15px;
+}
