@@ -6,17 +6,24 @@ h1{
     border: 3px solid black;
     background-color: aliceblue;
     border-radius: 15px;
+    padding: 25px;
+    margin-bottom: auto;
 }
 h2{
     border: 3px solid black;
     color: azure;
     background-color: black;
-
-    border-radius: -15px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 15px;
 }
 p{
     border: 3px solid ;
     border-radius: 15px;
     color: black;
-    background-color: azure;
+    background-color: whitesmoke;
+    padding: 11px;
+}
+h1{
+    
 }
